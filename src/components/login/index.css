@@ -1,0 +1,20 @@
+.login-wrap{
+    overflow: hidden;
+    max-width: 300px;
+    max-height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.login-wrap .login-form {
+
+}
+.login-wrap .login-form-forgot {
+  float: right;
+}
+.login-wrap .login-form-button {
+  width: 100%;
+}
